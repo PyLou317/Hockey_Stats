@@ -2,7 +2,8 @@
 
 ## Overview
 
-(Project is a work in progress and not 100% completed)
+### (Project is a work in progress and not 100% completed)
+
 This Python application provides a comprehensive interface for analyzing NHL player statistics from JSON data files. It allows users to explore player information, team details, and performance metrics for the 2019-20 NHL season.
 
 ## Features
